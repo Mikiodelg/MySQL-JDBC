@@ -83,3 +83,7 @@ CREATE TABLE COMMENTS (id INT NOT NULL AUTO_INCREMENT,
 INSERT INTO COMMENTS values (default, 'lars', 'myemail@gmail.com','http://www.vogella.com', '2009-09-14 10:33:11', 'Summary','My first comment');
 
 SELECT * FROM COMMENTS;  
+
+Eclipse ->
+
+	Run as -> Java Aplication.
